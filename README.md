@@ -1,4 +1,4 @@
-# Coffee Machine Final code of Project with stages:open_book::computer::computer_mouse:
+# Coffee Machine Final code of Project with stages:coffee::robot:
 
 ### Stage :one:<br />
 Write a program that puts some basic information on the screen: let the machine describe what it takes to make a cup of coffee!
